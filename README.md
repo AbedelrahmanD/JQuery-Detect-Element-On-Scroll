@@ -25,7 +25,6 @@
 
 ```
 <div data-scroll> example1</div>
-<div></div>
 <div data-scroll> example2</div>
 ```
 <h1>
@@ -48,7 +47,6 @@ $("[data-in-view]")
 
 ```
 <div data-scroll="myFunction(1)"> example1</div>
-<div></div>
 <div data-scroll="myFunction(2)"> example2</div>
 ```
 
@@ -61,7 +59,6 @@ $("[data-in-view]")
 
 ```
 <div data-scroll="myFunction(1)" data-scroll-offset="500"> example1 </div>
-<div></div>
 <div data-scroll="myFunction(2)" data-scroll-offset="1000"> example2</div>
 ```
 
