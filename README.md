@@ -13,7 +13,7 @@
 
 ```
 <script src="jquery.min.js"></script>
-<script src="scroll_detector.js"></script>
+<script src="scroll_element_detector.js"></script>
 
 ```
 <h1>
