@@ -2,7 +2,7 @@
     JQuery Detect Element On Scroll
 </h1>
 <p>
-    This plugin allows you detect the current element in the view port while the user is scrolling, and you can call functions when a specif element appear in the view port
+    This plugin allows you detect the current element in the view port while the user is scrolling, and you can call functions when a specific element appear in the view port
 </p>
 <h1>
     Installation
